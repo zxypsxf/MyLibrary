@@ -1,0 +1,47 @@
+
+#find{
+	margin:20px;
+}
+.input_text{
+	width:300px;
+	height:30px;
+}
+.input_btn{
+	width:80px;
+	height:30px;
+	font-size:13pt;
+}
+.input_btn:hover{
+	cursor: pointer;
+}
+#find_result{
+	font-size:16pt;
+}
+#find_result .input_btn{
+	background: none;
+}
+#find_result .input_btn:hover{
+	background-color: #f00;
+}
+#markTable,#find_result table{
+	width:900px;
+	border:1px solid #8EA3D5;
+}
+#markTable td{
+	padding:5px;
+}
+#main{
+	width:1000px;
+	margin:0 auto;
+	padding-top:30px;
+	font-size:15pt;
+}
+#userMain{
+	width:800px;
+	margin:0 auto;
+	font-size:18pt;
+	padding-top:30px;
+}
+#changePassTable td{
+	padding:3px;	
+}

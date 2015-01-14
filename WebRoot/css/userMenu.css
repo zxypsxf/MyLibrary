@@ -1,0 +1,24 @@
+#sidemenu{
+	float:left;
+	background-color:#f0f0f0;
+	height:800px;
+	font-size:15pt;
+}
+#sidemenu ul{
+	float:left;
+}
+#sidemenu ul li{
+	list-style:none;
+	width:150px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+}
+#sidemenu ul li a{
+	display:block;
+	text-decoration:none;
+	height:50px;
+}
+#sidemenu ul li a:hover{
+	background-color:RGB(159,159,159);
+}
